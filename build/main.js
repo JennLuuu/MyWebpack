@@ -16,7 +16,7 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _js_add__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js/add */ \"./src/js/add.js\");\n/* harmony import */ var _js_utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./js/utils */ \"./src/js/utils.js\");\n\r\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _js_add__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js/add */ \"./src/js/add.js\");\n/* harmony import */ var _js_utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./js/utils */ \"./src/js/utils.js\");\n\r\n\r\n\r\n(0,_js_add__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(2,6)\r\nconsole.log(_js_utils__WEBPACK_IMPORTED_MODULE_1__.PI);\r\n(0,_js_utils__WEBPACK_IMPORTED_MODULE_1__.show)()\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
