@@ -1,5 +1,5 @@
 .outer{
-    width: 100px;
-    height: 100px;
-    background-color: hotpink;
+    width: 1000px;
+    height: 500px;
+    background: url(../images/dog.webp) 0 0 no-repeat;
 }
