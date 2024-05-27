@@ -14,7 +14,16 @@ module.exports ={
     mode:"production",
     //loader加载器
     module:{
-        rules:[],
+        rules:[
+            {
+                test:/.css$/,
+                use:["style-loader","css-loader"]
+            },
+            {
+                test:/.less$/,
+                use:["style-loader","css-loader","less-loader"]
+            }
+        ],
     },
     //plugin插件
     plugins:[],
